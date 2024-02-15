@@ -2,7 +2,7 @@
 
 # Derniers travaux :
 15/01/2023 : initialisation (https://vitepress.vuejs.org/)
-14/02/2024 : mise à jour technique (suppression de yarn, passage à npm, suppression de vitepress-blog-util)
+15/02/2024 : mise à jour technique (suppression de yarn, passage à npm, suppression de vitepress-blog-util)
 
 ---
 
