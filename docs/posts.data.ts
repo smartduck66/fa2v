@@ -23,6 +23,7 @@ export default createContentLoader('posts/*.md', {
         title: frontmatter.title,
         category: frontmatter.category,
         tag: frontmatter.tag,
+        archive: frontmatter.archive,
         url,
         excerpt,
         date: formatDate(frontmatter.date)
@@ -30,6 +31,7 @@ export default createContentLoader('posts/*.md', {
       .sort((a, b) => b.date.time - a.date.time)
   }
 })
+
 
 function formatDate(raw: string): Post['date'] {
   const date = new Date(raw)

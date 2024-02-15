@@ -7,7 +7,7 @@ export default defineConfig({
   description: "Description des activités de l'entreprise FA2V",
 
   head: [
-    ["script", { src: "https://www.googletagmanager.com/gtag/js?id=G-74G2EEG8BG" }],
+    ["script", { async: '',src: "https://www.googletagmanager.com/gtag/js?id=G-74G2EEG8BG" }],
     [
       "script",
       {},

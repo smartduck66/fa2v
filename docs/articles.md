@@ -11,8 +11,8 @@ title: Articles
 
 </script>
 
-<div class="article" v-for="{ title, url, date, excerpt, category, tag } of posts" v-if="posts.length">
-    <div >  
+<div class="article" v-for="{ title, url, date, excerpt, category, tag, archive } of posts" v-if="posts.length">
+    <div v-if="!archive">  
         <a class="title" v-bind:href="url"> {{ title }} </a>
         <hr />
         <div class="article-info">
