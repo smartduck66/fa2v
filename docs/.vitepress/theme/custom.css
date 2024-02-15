@@ -1,0 +1,14 @@
+
+/* On remplace la couleur indigo des boutons et des liens par du vert, pourêtre raccord avec le logo FA2V et se différencier du blog www.andretonic.fr */
+:root {
+    --vp-c-green-1: #18794e;
+    --vp-c-green-2: #299764;
+    --vp-c-green-3: #30a46c;
+    --vp-c-green-soft: rgba(16, 185, 129, 0.14);
+
+    --vp-c-brand-1: var(--vp-c-green-1);
+    --vp-c-brand-2: var(--vp-c-green-2);
+    --vp-c-brand-3: var(--vp-c-green-3);
+    --vp-c-brand-soft: var(--vp-c-green-soft);
+  }
+
