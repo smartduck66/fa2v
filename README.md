@@ -48,5 +48,5 @@ Caractères accentués avec le pavé numérique :
     È : «Alt» + 0200
     Ù : «Alt» + 0217
 
-Nouvelle extension IDE VSCODE installée : Volar
-Pour formater un document rapidement via l'extension prettier, la commande de touches ALT + F est configurée
+- Nouvelle extension IDE VSCODE installée : Volar
+- Pour formater un document rapidement via l'extension prettier, la commande de touches ALT + F est configurée
