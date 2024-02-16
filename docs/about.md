@@ -63,4 +63,4 @@ title: A propos
 > Développeur, écrivain informatique, fondateur de clubs d'informatique
 
 <br><br>
-<i>Ce site généré avec le SSG <a target="_blank" href="https://vitepress.dev/">Vitepress</a> tente de respecter les directives du <a target="_blank" href="https://brutalist-web.design">Brutalist Web Design</a> afin d'être orienté contenu, avec la priorité donnée au visiteur du site web.</i>
+<i>Ce site généré avec le SSG <a target="_blank" href="https://vitepress.dev/">VitePress</a> tente de respecter les directives du <a target="_blank" href="https://brutalist-web.design">Brutalist Web Design</a> afin d'être orienté contenu, avec la priorité donnée au visiteur du site web.</i>

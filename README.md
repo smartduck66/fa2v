@@ -1,4 +1,4 @@
-#### Ce site (www.fa2v.fr) s'appuie sur vitepress
+#### Ce site (www.fa2v.fr) s'appuie sur VitePress
 #### Le thème par défaut est utilisé, avec une légère personnalisation (couleur lien, bouton) -> .vitepress/theme/index.js
 
 #### Derniers travaux :
