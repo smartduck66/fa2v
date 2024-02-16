@@ -1,7 +1,7 @@
-##### Ce site (www.fa2v.fr) s'appuie sur vitepress
-##### Le thème par défaut est utilisé, avec une légère personnalisation (couleur lien, bouton) -> .vitepress/theme/index.js
+#### Ce site (www.fa2v.fr) s'appuie sur vitepress
+#### Le thème par défaut est utilisé, avec une légère personnalisation (couleur lien, bouton) -> .vitepress/theme/index.js
 
-##### Derniers travaux :
+#### Derniers travaux :
 15/01/2023 : initialisation (https://vitepress.dev/)
 15/02/2024 : mise à jour technique (suppression de yarn, passage à npm, suppression de vitepress-blog-util)
 
