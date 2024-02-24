@@ -9,9 +9,9 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "sass": "^1.70.0"
+    "sass": "^1.71.1"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.42"
+    "vitepress": "^1.0.0-rc.44"
   }
 }

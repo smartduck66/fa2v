@@ -76,7 +76,7 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: "linkedin", link: "https://www.linkedin.com/in/atonic/" },{ icon: 'github', link: 'https://github.com/smartduck66/fa2v' },],
+    socialLinks: [{ icon: "linkedin", link: "https://www.linkedin.com/in/atonic/" },{ icon: 'github', link: 'https://github.com/smartduck66/fa2v' }],
     footer: {
       message: `Site généré avec VitePress - Hébergé @Netlify <br> Visitez le <a href="https://www.andretonic.fr">blog personnel</a> d'André Tonic`,
       copyright: `© SAS FA2V 2023 - Présent`,
