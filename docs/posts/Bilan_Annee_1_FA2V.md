@@ -23,7 +23,7 @@ Même si ma mission principale est centrée sur le développement *business*, j'
 
 Ce qui m'impressionne le plus chez Better World réside dans cette croissance maîtrisée et sereine, cette volonté quotidienne de bien faire les choses pour les clients, ces relations humaines chaleureuses... bien loin de la politique et des intrigues improductives que j'ai pu observer tout au long de ma carrière dans les grands groupes. C'est vraiment une bouffée d'oxygène :wink: Et puis, j'ai la chance de **découvrir des secteurs** que j'avais peu ou pas cotoyé, comme la Santé, l'Hôtellerie, l'Énergie ou encore le monde Automobile.
 
-La suite, me direz-vous ? Quand on a la chance de s'épanouir dans son travail, on n'a pas envie d'en changer. Cela a d'ailleurs été mon *motto*, tout au long de ma carrière. Et puis, voir grandir un projet, une structure, c'est toujours **une aventure humaine** extrêmement riche. En tant que manager de transition, tant que l'on apporte de la valeur et que l'on prend du plaisir dans sa mission, il semble naturel de continuer. Vivement 2024 !
+C'est une chance, quand l'on est manager de transition, de participer à **l'aventure humaine** de faire grandir un projet, une structure.
 
 [> Accueil](/) [> Tous les articles](/articles)
 
