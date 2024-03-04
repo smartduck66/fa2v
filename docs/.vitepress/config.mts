@@ -7,7 +7,7 @@ export default defineConfig({
   description: "Description des activités de l'entreprise FA2V",
 
   head: [
-    ["script", { async: '',src: "https://www.googletagmanager.com/gtag/js?id=G-74G2EEG8BG" }],
+    ["script", { async: "", src: "https://www.googletagmanager.com/gtag/js?id=G-74G2EEG8BG" }],
     [
       "script",
       {},
@@ -26,6 +26,10 @@ export default defineConfig({
       {
         text: "Mes expertises",
         link: "/expertises/product_management",
+      },
+      {
+        text: "Missions",
+        link: "/missions/better_world",
       },
       {
         text: "Blog",
@@ -76,7 +80,10 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: "linkedin", link: "https://www.linkedin.com/in/atonic/" },{ icon: 'github', link: 'https://github.com/smartduck66/fa2v' }],
+    socialLinks: [
+      { icon: "linkedin", link: "https://www.linkedin.com/in/atonic/" },
+      { icon: "github", link: "https://github.com/smartduck66/fa2v" },
+    ],
     footer: {
       message: `Site généré avec VitePress - Hébergé @Netlify <br> Visitez le <a href="https://www.andretonic.fr">blog personnel</a> d'André Tonic`,
       copyright: `© SAS FA2V 2023 - Présent`,
