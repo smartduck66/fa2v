@@ -34,10 +34,10 @@ features:
     details: Mes principales compétences sont centrées sur le management d'équipes technologiques, la direction de projet transverse et la transformation digitale à l'échelle
   - icon: 
       src: /assets/img/product_management_icon.webp
-      alt: Mission en cours
-    title: Mission en cours
+      alt: Dernière mission réalisée
+    title: Dernière mission réalisée
     link: /missions/better_world 
-    details: J'accompagne actuellement la société Better World, société technologique et scientifique Française spécialisée en Intelligence artificielle / Traitement automatique du langage
+    details: J'ai accompagné la société Better World, société technologique et scientifique Française spécialisée en Intelligence artificielle / Traitement automatique du langage
   - icon: 
       src: /assets/img/developer_icon.webp
       alt: Blog

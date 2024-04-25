@@ -10,7 +10,7 @@ L’approche basée sur l’IA déployée par Better World a été primée par l
 :::
 ![IMG](/assets/img/logo_bw.webp "Product management")
 <br>
-J'accompagne Better World en tant que **manager de transition**, depuis le mois de mars 2023. Mes principales contributions :
+J'ai accompagné Better World en tant que **manager de transition**, de mars 2023 à avril 2024. Mes principales contributions :
 
 - Business Development : en charge de la croissance du chiffre d'affaires 
 - Marketing Digital : mise en place de la stratégie de contenu favorisant la visibilité de la structure et la génération de *leads*
