@@ -10,13 +10,13 @@ archive: false
 ---
 
 ::: tip Nefer-IT
-Nefer-IT SARL est une société d’édition de presse et de livres. La société a été fondé en 2013 par François Tonic, historien & journaliste.
+Nefer-IT SARL est une société d’édition de presse et de livres. La société a été fondée en 2013 par François Tonic, historien & journaliste.
 
 Nefer-IT publie le magazine Programmez !, dédié aux développeurs et aux technologies ainsi que Pharaon Magazine.
 
-Le nom de Nefer-IT est la fusion des deux passions de son fondateur : l’Egypte ancienne (Nefer) et l’informatique (IT). Nefer en ancien Egyptien signifie littérelement, beau / belle.
+Le nom de Nefer-IT est la fusion des deux passions de son fondateur : l’Egypte ancienne (Nefer) et l’informatique (IT). Nefer en ancien Égyptien signifie littéralement, beau / belle.
 :::
-![IMG](/assets/img/logo_neferIT.webp "Product management")
+![IMG](/assets/img/logo_neferIT.webp "Nefer-IT")
 <br>
 J'accompagne Nefer-IT en tant que **développeur full stack** dans la refonte du site Web dédié à Pharaon Magazine, depuis mai 2024. Les principales fonctionnalités du site :
 

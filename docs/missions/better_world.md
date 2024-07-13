@@ -14,7 +14,7 @@ Créée en 2017, Better World est une société technologique et scientifique Fr
 
 L’approche basée sur l’IA déployée par Better World a été primée par la Communauté Européenne et par la BPI.
 :::
-![IMG](/assets/img/logo_bw.webp "Product management")
+![IMG](/assets/img/logo_bw.webp "BW")
 <br>
 J'ai accompagné Better World en tant que **manager de transition**, de mars 2023 à avril 2024. Mes principales contributions :
 
