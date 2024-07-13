@@ -34,10 +34,10 @@ features:
     details: Mes principales compétences sont centrées sur le management d'équipes technologiques, la direction de projet transverse et la transformation digitale à l'échelle
   - icon: 
       src: /assets/img/product_management_icon.webp
-      alt: Dernière mission réalisée
-    title: Dernière mission réalisée
-    link: /missions/better_world 
-    details: J'ai accompagné la société Better World, société technologique et scientifique Française spécialisée en Intelligence artificielle / Traitement automatique du langage
+      alt: Mission
+    title: Mission en cours
+    link: /missions/pharaon 
+    details: Je refonds l'intégralité du site Web Pharaon Magazine sur une stack Vue.js/TursoDB. Cette publication est éditée par la société Nefer-IT.
   - icon: 
       src: /assets/img/developer_icon.webp
       alt: Blog

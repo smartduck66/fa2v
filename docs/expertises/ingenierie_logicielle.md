@@ -18,6 +18,6 @@ Voici quelques technologies que j'ai récemment mises en oeuvre :
 
 - Langages : C++, HTML, CSS, Javascript
 - Frameworks : Vue.js, Node.js, Jekyll, VitePress, Eleventy
-- Serverless : PlanetScale, fauna, auth0, Snipcart, stripe, mollie
+- Serverless : Turso, fauna, auth0, Cloudinary, Sendgrid, stripe, mollie
 - Cloud : AWS, netlify
 - Architecture et méthodologie : APIsation, Jamstack, DevOps, CI/CD

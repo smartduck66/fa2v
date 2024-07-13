@@ -1,6 +1,12 @@
 ---
 layout: doc
 title: Better World
+date: 2024-04-30
+category:
+  - FA2V
+tag:
+  - Mission
+archive: false
 ---
 
 ::: tip Better World
@@ -12,8 +18,8 @@ L’approche basée sur l’IA déployée par Better World a été primée par l
 <br>
 J'ai accompagné Better World en tant que **manager de transition**, de mars 2023 à avril 2024. Mes principales contributions :
 
-- Business Development : en charge de la croissance du chiffre d'affaires 
-- Marketing Digital : mise en place de la stratégie de contenu favorisant la visibilité de la structure et la génération de *leads*
+- Business Development : en charge de la croissance du chiffre d'affaires
+- Marketing Digital : mise en place de la stratégie de contenu favorisant la visibilité de la structure et la génération de _leads_
 - Approche Produit : participation à l'évolution de la plateforme SaaS et des services associés
 - Stratégie : accompagnement des fondateurs
 

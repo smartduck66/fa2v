@@ -29,7 +29,7 @@ export default defineConfig({
       },
       {
         text: "Missions",
-        link: "/missions/better_world",
+        link: "/missions_list.md",
       },
       {
         text: "Blog",
