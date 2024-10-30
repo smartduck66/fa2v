@@ -84,9 +84,15 @@ export default defineConfig({
       { icon: "linkedin", link: "https://www.linkedin.com/in/atonic/" },
       { icon: "github", link: "https://github.com/smartduck66/fa2v" },
     ],
+
     footer: {
       message: `Site généré avec VitePress - Hébergé @Netlify <br> Visitez le <a href="https://www.andretonic.fr">blog personnel</a> d'André Tonic`,
       copyright: `© SAS FA2V 2023 - Présent`,
+    },
+
+    docFooter: {
+      next: 'Page suivante', // Libellé pour la page suivante
+      prev: 'Page précédente', // Libellé pour la page précédente
     },
   },
 });
