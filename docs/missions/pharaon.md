@@ -18,7 +18,7 @@ Le nom de Nefer-IT est la fusion des deux passions de son fondateur : l’Egypte
 :::
 ![IMG](/assets/img/logo_neferIT.webp "Nefer-IT")
 <br>
-J'accompagne Nefer-IT en tant que **développeur full stack** dans la refonte du site Web dédié à Pharaon Magazine, depuis mai 2024. Les principales fonctionnalités du site :
+J'ai accompagné Nefer-IT en tant que **développeur full stack** dans la refonte du site Web dédié à Pharaon Magazine, au cours du second semestre 2024. Les principales fonctionnalités du site :
 
 - Page d'accueil
 - Actualités
@@ -28,6 +28,7 @@ J'accompagne Nefer-IT en tant que **développeur full stack** dans la refonte du
 - Back Office permettant de gérer le contenu éditorial, le catalogue Produits, les espaces publicitaires, la gestion des newsletters, la revue des commandes, etc.
 
 
+*Stack technique : Vue.js, Vue-router, composants UI PrimeVue, Pinia, Vee-validate/Yup, Turso, Sendgrid, Cloudinary, Stripe, Auth0, fonctions serverless en node.js - Hébergement : Netlify*
 
 <br>
 <i><a target="_blank" href="https://www.pharaon-magazine.fr/">Site Web de Pharaon Magazine</a></i>
