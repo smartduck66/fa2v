@@ -35,15 +35,15 @@ features:
   - icon: 
       src: /assets/img/product_management_icon.webp
       alt: Mission
-    title: Mission en cours
+    title: Dernière mission
     link: /missions/pharaon 
-    details: Je refonds l'intégralité du site Web Pharaon Magazine sur une stack Vue.js/TursoDB. Cette publication est éditée par la société Nefer-IT.
+    details: J'ai refondu l'intégralité du site Web Pharaon Magazine sur une stack Vue.js/TursoDB. Cette publication est éditée par la société Nefer-IT.
   - icon: 
       src: /assets/img/developer_icon.webp
       alt: Blog
     title: Dernier billet de mon blog
-    link: /posts/Bilan_Annee_1_FA2V.md
-    details: L'année 2023 s'achève, le temps est donc venu de dresser un premier bilan de mon activité en tant qu'indépendant. Douze mois riches en émotions, réflexions et ajustements de mon positionnement.
+    link: /posts/Bilan_Annee_2_FA2V.md
+    details: L'année 2024 s'achève, le temps est donc venu de dresser un second bilan de mon activité en tant qu'indépendant. Douze mois riches en émotions, réflexions et ajustements de mon positionnement.
   - icon: 
       src: /assets/img/consulting_icon.webp
       alt: Contactez-moi

@@ -18,7 +18,7 @@ Le nom de Nefer-IT est la fusion des deux passions de son fondateur : l’Egypte
 :::
 ![IMG](/assets/img/logo_neferIT.webp "Nefer-IT")
 <br>
-J'ai accompagné Nefer-IT en tant que **développeur full stack** dans la refonte du site Web dédié à Pharaon Magazine, au cours du second semestre 2024. Les principales fonctionnalités du site :
+J'ai accompagné Nefer-IT en tant que **développeur full stack** dans la refonte du site Web dédié à Pharaon Magazine (anciennement sous Drupal), au cours du second semestre 2024. Les principales fonctionnalités du site :
 
 - Page d'accueil
 - Actualités
