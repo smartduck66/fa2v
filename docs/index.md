@@ -35,9 +35,9 @@ features:
   - icon: 
       src: /assets/img/product_management_icon.webp
       alt: Mission
-    title: Dernière mission
-    link: /missions/pharaon 
-    details: J'ai refondu l'intégralité du site Web Pharaon Magazine sur une stack Vue.js/TursoDB. Cette publication est éditée par la société Nefer-IT.
+    title: Mission en cours
+    link: /missions/bain 
+    details: J'accompagne le cabinet de conseil Bain & Company sur le déploiement d'une Business Unit digitale, pour l'un de ses grands clients dans le monde financier.
   - icon: 
       src: /assets/img/developer_icon.webp
       alt: Blog
