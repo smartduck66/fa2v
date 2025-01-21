@@ -42,8 +42,8 @@ features:
       src: /assets/img/developer_icon.webp
       alt: Blog
     title: Dernier billet de mon blog
-    link: /posts/Bilan_Annee_2_FA2V.md
-    details: L'année 2024 s'achève, le temps est donc venu de dresser un second bilan de mon activité en tant qu'indépendant. Douze mois riches en émotions, réflexions et ajustements de mon positionnement.
+    link: /posts/Certification_Microsoft_Azure_Fundamentals.md
+    details: Retour d'expérience sur le passage de la certification Microsoft Azure fundamentals (connaissances de base sur les concepts du cloud, les services Azure de base, ainsi que les fonctionnalités et outils de gestion et de gouvernance d’Azure).
   - icon: 
       src: /assets/img/consulting_icon.webp
       alt: Contactez-moi
