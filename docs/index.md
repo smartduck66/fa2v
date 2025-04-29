@@ -37,7 +37,7 @@ features:
       alt: Mission
     title: Mission en cours
     link: /missions/bain 
-    details: J'accompagne le cabinet de conseil Bain & Company sur le déploiement d'une Business Unit digitale, pour l'un de ses grands clients dans le monde financier.
+    details: J'accompagne le cabinet de conseil Bain & Company en tant que Senior Advisor.
   - icon: 
       src: /assets/img/developer_icon.webp
       alt: Blog

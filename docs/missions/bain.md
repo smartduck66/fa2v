@@ -15,9 +15,7 @@ Bain & Company est l’un des plus grands cabinets de conseil en management au m
 :::
 ![IMG](/assets/img/logo_bain.webp "Bain & Company")
 <br>
-J'accompagne le cabinet de conseil Bain & Company sur le déploiement d'une Business Unit digitale, pour l'un de ses grands clients dans le monde financier.
-
-Plus spécifiquement, j'interviens sur le modèle opérationnel et la gouvernance de cette entité.
+J'accompagne le cabinet de conseil Bain & Company en tant que Senior Advisor.
 
 <br>
 <i><a target="_blank" href="https://www.bain.com/fr/">Site Web de Bain & Company en France</a></i>
