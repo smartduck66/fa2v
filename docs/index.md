@@ -37,11 +37,7 @@ features:
       alt: Mission
     title: Dernière mission réalisée
     link: /missions/bain 
-<<<<<<< HEAD
     details: J'ai accompagné le cabinet de conseil Bain & Company sur le déploiement d'une Business Unit digitale, pour l'un de ses grands clients dans le monde financier.
-=======
-    details: J'accompagne le cabinet de conseil Bain & Company en tant que Senior Advisor.
->>>>>>> 590beb7997e013f266b2dcf8b277c6c840d1ab64
   - icon: 
       src: /assets/img/developer_icon.webp
       alt: Blog
