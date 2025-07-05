@@ -35,9 +35,9 @@ features:
   - icon: 
       src: /assets/img/product_management_icon.webp
       alt: Mission
-    title: Mission en cours
+    title: Dernière mission réalisée
     link: /missions/bain 
-    details: J'accompagne le cabinet de conseil Bain & Company sur le déploiement d'une Business Unit digitale, pour l'un de ses grands clients dans le monde financier.
+    details: J'ai accompagné le cabinet de conseil Bain & Company sur le déploiement d'une Business Unit digitale, pour l'un de ses grands clients dans le monde financier.
   - icon: 
       src: /assets/img/developer_icon.webp
       alt: Blog
