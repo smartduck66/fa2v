@@ -42,8 +42,8 @@ features:
       src: /assets/img/developer_icon.webp
       alt: Blog
     title: Dernier billet de mon blog
-    link: /posts/Certification_Microsoft_Azure_Fundamentals.md
-    details: Retour d'expérience sur le passage de la certification Microsoft Azure fundamentals (connaissances de base sur les concepts du cloud, les services Azure de base, ainsi que les fonctionnalités et outils de gestion et de gouvernance d’Azure).
+    link: /posts/IBMZXPLORE.md
+    details: Vous souhaitez découvrir l'univers du Mainframe ? IBM met à votre disposition un parcours d'apprentissage complet, pédestre et fort ludique !
   - icon: 
       src: /assets/img/consulting_icon.webp
       alt: Contactez-moi
